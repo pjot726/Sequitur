@@ -1,0 +1,25 @@
+{
+  "name": "sequitur",
+  "version": "0.0.1",
+  "description": "\u0016Open Source Blockchain for Managing Car Purchases/Ownership",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjot726/Sequitur.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Paramjot Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjot726/Sequitur/issues"
+  },
+  "homepage": "https://github.com/pjot726/Sequitur#readme",
+  "dependencies": {
+    "truffle": "^5.1.34"
+  }
+}
